@@ -20,6 +20,8 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
+<h2>🛠️ Technical Stack</h2>
+
 <style>
   .tech-grid {
     display: grid;
@@ -62,7 +64,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
     CSS
   </div>
   <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/view_agenda/materialicons/24px.svg" alt="Google Sheets" width="32" height="32">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="32" height="32">
     Google Sheets
   </div>
   <div class="tech-item">
@@ -70,19 +72,18 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
     Streamlit
   </div>
   <div class="tech-item">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="32" height="32">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="32" height="32">
     OpenAI
   </div>
   <div class="tech-item">
-    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="32" height="32">
+    <img src="https://cdn-icons-png.flaticon.com/512/546/546394.png" alt="REST API" width="32" height="32">
     REST API
   </div>
   <div class="tech-item">
-    <img src="https://www.gstatic.com/images/icons/material/apps-script-512.png" alt="Apps Script" width="32" height="32">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Apps_Script.svg" alt="Apps Script" width="32" height="32">
     Apps Script
   </div>
 </div>
-
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
