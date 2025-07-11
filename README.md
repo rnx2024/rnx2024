@@ -23,19 +23,19 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 <style>
   .tech-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
     justify-items: center;
     align-items: center;
-    margin: 20px 0;
+    padding: 20px;
   }
 
   .tech-item {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 0.85rem;
     text-align: center;
+    font-size: 0.95rem;
     color: #333;
   }
 </style>
@@ -62,7 +62,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
     CSS
   </div>
   <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/google/material-design-icons/master/src/action/view_agenda/materialicons/24px.svg" alt="Google Sheets" width="64" height="64">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="64" height="64">
     Google Sheets
   </div>
   <div class="tech-item">
