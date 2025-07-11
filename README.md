@@ -32,33 +32,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 </style>
 
 <div class="tech-grid">
- <h2 align="center">🛠️ Technical Stack</h2>
-
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
-    gap: 20px;
-    justify-items: center;
-    align-items: center;
-    padding: 20px;
-  }
-</style>
-
-<h2 align="center">🛠️ Technical Stack</h2>
-
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
-    gap: 20px;
-    justify-items: center;
-    align-items: center;
-    padding: 20px;
-  }
-</style>
-
-<div class="tech-grid">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
 
@@ -80,7 +53,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
 
-  <!-- OpenAI (Brandfetch PNG) -->
+  <!-- OpenAI -->
   <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png" alt="OpenAI" width="64" height="64">
 
   <!-- REST API -->
@@ -88,8 +61,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
   <!-- Apps Script -->
   <img src="https://ssl.gstatic.com/docs/script/images/logo.png" alt="Apps Script" width="128" height="128">
-</div>
-
 </div>
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
