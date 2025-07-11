@@ -81,7 +81,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
 
   <!-- OpenAI (Brandfetch PNG) -->
-  <img src="https://assets.brandfetch.io/3e7g4DgVFA/idGvxnoyxM.jpeg" alt="OpenAI" width="64" height="64">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png" alt="OpenAI" width="64" height="64">
 
   <!-- REST API -->
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
