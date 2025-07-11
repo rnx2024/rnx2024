@@ -43,7 +43,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
 
   <!-- OpenAI -->
-  <img src="https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_208,pg_1,q_40,w_208/651a8a50f1affa001d927938.png" alt="OpenAI" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="64" height="64">
 
   <!-- REST API -->
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
@@ -61,10 +61,10 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhanny-belle-urbis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F5F5DC" alt="LinkedIn">
+    <img src="https://github.com/rnx2024/rnx2024/blob/main/icons8-linkedin-48.png" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@rnx2024" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=F5F5DC" alt="Medium">
+    <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium">
   </a>
 </p>
 
