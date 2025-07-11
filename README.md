@@ -20,8 +20,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<h2 align="center">🛠️ Technical Stack</h2>
-
 <style>
   .tech-grid {
     display: grid;
@@ -35,6 +33,19 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 <div class="tech-grid">
  <h2 align="center">🛠️ Technical Stack</h2>
+
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
+  }
+</style>
+
+<h2 align="center">🛠️ Technical Stack</h2>
 
 <style>
   .tech-grid {
@@ -63,20 +74,22 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="64" height="64">
 
-  <!-- Google Sheets (fallback using Google Drive logo) -->
+  <!-- Google Sheets -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Sheets" width="64" height="64">
 
-  <!-- Streamlit (official brand PNG) -->
+  <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
 
-  <!-- OpenAI (Wikipedia-hosted PNG thumbnail of logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="OpenAI" width="64" height="64">
+  <!-- OpenAI (Brandfetch PNG) -->
+  <img src="https://assets.brandfetch.io/3e7g4DgVFA/idGvxnoyxM.jpeg" alt="OpenAI" width="64" height="64">
 
-  <!-- REST API (generic gear icon) -->
+  <!-- REST API -->
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
 
-  <!-- Apps Script (official Google source) -->
+  <!-- Apps Script -->
   <img src="https://ssl.gstatic.com/docs/script/images/logo.png" alt="Apps Script" width="128" height="128">
+</div>
+
 </div>
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
