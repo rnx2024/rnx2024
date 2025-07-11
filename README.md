@@ -20,8 +20,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<h2>🛠️ Technical Stack</h2>
-
 <style>
   .tech-grid {
     display: grid;
