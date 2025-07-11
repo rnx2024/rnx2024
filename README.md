@@ -20,8 +20,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<h2 align="center">🛠️ Technical Stack</h2>
-
 <style>
   .tech-grid {
     display: grid;
@@ -45,7 +43,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
   <img src="https://www.gstatic.com/images/icons/material/apps-script-512.png" alt="Apps Script" width="64" height="64">
 </div>
-
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
