@@ -20,7 +20,20 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<h2 align="center">🛠️ Technical Stack</h2>
+
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
+  }
+</style>
+
+<div class="tech-grid">
+ <h2 align="center">🛠️ Technical Stack</h2>
 
 <style>
   .tech-grid {
@@ -52,17 +65,18 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <!-- Google Sheets (using Google Drive logo as fallback) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Sheets" width="64" height="64">
 
-  <!-- Streamlit (PNG fallback) -->
+  <!-- Streamlit (from GitHub) -->
   <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/frontend/public/favicon.png" alt="Streamlit" width="64" height="64">
 
-  <!-- OpenAI (clean version) -->
+  <!-- OpenAI (Wikimedia-hosted SVG) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="64" height="64">
 
-  <!-- REST API (generic gear) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" alt="REST API" width="64" height="64">
+  <!-- REST API (generic gear icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
 
-  <!-- Apps Script (uploaded PNG) -->
-  <img src="https://raw.githubusercontent.com/googleworkspace/apps-script-samples/main/logo.png" alt="Apps Script" width="64" height="64">
+  <!-- Apps Script (GitHub-hosted PNG from Google) -->
+  <img src="https://raw.githubusercontent.com/googleworkspace/apps-script-samples/main/logo.png" alt="A
+
 </div>
 
 
