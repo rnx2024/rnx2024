@@ -20,77 +20,74 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<h2>🛠️ Technical Stack</h2>
-
 <style>
   .tech-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 15px;
     justify-items: center;
     align-items: center;
     margin: 20px 0;
   }
 
-  .tech-icon {
+  .tech-item {
     display: flex;
     flex-direction: column;
     align-items: center;
     font-size: 0.85rem;
-    color: #333;
     text-align: center;
+    color: #333;
   }
 
-  .tech-icon img {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 6px;
+  .tech-item img {
+    width: 32px;
+    height: 32px;
+    margin-bottom: 5px;
   }
 </style>
 
 <div class="tech-grid">
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" style="fill: #3776AB;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
     Python
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg" alt="R" style="fill: #276DC3;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R">
     R
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" style="fill: #F7DF1E;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
     JavaScript
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" style="fill: #E34F26;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
     HTML
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" style="fill: #1572B6;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
     CSS
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesheets.svg" alt="Google Sheets" style="fill: #34A853;">
+  <div class="tech-item">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets">
     Google Sheets
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="Streamlit" style="fill: #FF4B4B;">
+  <div class="tech-item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Streamlit_logo_icon.svg" alt="Streamlit">
     Streamlit
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI" style="fill: #412991;">
+  <div class="tech-item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI">
     OpenAI
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/api.svg" alt="REST API" style="fill: #000000;">
+  <div class="tech-item">
+    <img src="https://cdn-icons-png.flaticon.com/512/546/546394.png" alt="REST API">
     REST API
   </div>
-  <div class="tech-icon">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" alt="Apps Script" style="fill: #4285F4;">
+  <div class="tech-item">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Apps_Script.svg" alt="Apps Script">
     Apps Script
   </div>
 </div>
-
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
