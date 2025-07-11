@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Rhanny Belle Urbis</h1>
-<p align="center"><strong>Team Lead – AI Division @ Best Education Services Team (BEST)</strong><br>
+<p align="center"><strong>Team Lead – AI Team @ Best Education Services Team (BEST)</strong><br>
 Empowering business transformation through pragmatic AI solutions</p>
 
 ---
