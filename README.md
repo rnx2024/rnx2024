@@ -30,7 +30,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
   <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="64" height="64">
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
-  <img src="https://ssl.gstatic.com/docs/script/images/logo.png" alt="Apps Script" width="128" height="128">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="128" height="128">
 </div>
 
 > 💡 <strong>Focus Areas:</strong> AI process automation, low-code platforms, educational tech tools, and smart task planners.  
