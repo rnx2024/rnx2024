@@ -42,6 +42,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   .tech-item img {
     width: 32px;
     height: 32px;
+    object-fit: contain;
     margin-bottom: 5px;
   }
 </style>
@@ -88,6 +89,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
     Apps Script
   </div>
 </div>
+
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
