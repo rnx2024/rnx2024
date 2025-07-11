@@ -20,6 +20,8 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
+<h2>🛠️ Technical Stack</h2>
+
 <style>
   .tech-grid {
     display: grid;
@@ -38,54 +40,47 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
     text-align: center;
     color: #333;
   }
-
-  .tech-item img {
-    width: 32px;
-    height: 32px;
-    object-fit: contain;
-    margin-bottom: 5px;
-  }
 </style>
 
 <div class="tech-grid">
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32">
     Python
   </div>
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="32" height="32">
     R
   </div>
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32">
     JavaScript
   </div>
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32">
     HTML
   </div>
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32">
     CSS
   </div>
   <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="32" height="32">
     Google Sheets
   </div>
   <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Streamlit_logo_icon.svg" alt="Streamlit">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Streamlit_logo_icon.svg" alt="Streamlit" width="32" height="32">
     Streamlit
   </div>
   <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="OpenAI" width="32" height="32">
     OpenAI
   </div>
   <div class="tech-item">
-    <img src="https://cdn-icons-png.flaticon.com/512/546/546394.png" alt="REST API">
+    <img src="https://cdn-icons-png.flaticon.com/512/546/546394.png" alt="REST API" width="32" height="32">
     REST API
   </div>
   <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Apps_Script.svg" alt="Apps Script">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Apps_Script.svg" alt="Apps Script" width="32" height="32">
     Apps Script
   </div>
 </div>
