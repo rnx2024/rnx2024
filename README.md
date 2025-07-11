@@ -20,18 +20,77 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=F5F5DC">
-  <img src="https://img.shields.io/badge/Apps%20Script-000000?style=for-the-badge&logo=google&logoColor=F5F5DC">
-</p>
+<h2>🛠️ Technical Stack</h2>
+
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 12px;
+    justify-items: center;
+    align-items: center;
+    margin: 20px 0;
+  }
+
+  .tech-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.85rem;
+    color: #333;
+    text-align: center;
+  }
+
+  .tech-icon img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 6px;
+  }
+</style>
+
+<div class="tech-grid">
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" style="fill: #3776AB;">
+    Python
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg" alt="R" style="fill: #276DC3;">
+    R
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" style="fill: #F7DF1E;">
+    JavaScript
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" style="fill: #E34F26;">
+    HTML
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" style="fill: #1572B6;">
+    CSS
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesheets.svg" alt="Google Sheets" style="fill: #34A853;">
+    Google Sheets
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" alt="Streamlit" style="fill: #FF4B4B;">
+    Streamlit
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI" style="fill: #412991;">
+    OpenAI
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/api.svg" alt="REST API" style="fill: #000000;">
+    REST API
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" alt="Apps Script" style="fill: #4285F4;">
+    Apps Script
+  </div>
+</div>
+
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
