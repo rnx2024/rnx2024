@@ -20,17 +20,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
-    gap: 20px;
-    justify-items: center;
-    align-items: center;
-    padding: 20px 0;
-  }
-</style>
-
 <div class="tech-grid">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64">
