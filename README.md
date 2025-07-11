@@ -20,17 +20,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
-    gap: 20px;
-    justify-items: center;
-    align-items: center;
-    padding: 20px;
-  }
-</style>
-
 <div class="tech-grid">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
@@ -54,7 +43,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="128" height="128">
 
   <!-- OpenAI -->
-  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png" alt="OpenAI" width="64" height="64">
+  <img src="https://www.vecteezy.com/png/22227364-openai-chatgpt-logo-icon" alt="OpenAI" width="64" height="64">
 
   <!-- REST API -->
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
