@@ -6,8 +6,8 @@ Empowering business transformation through pragmatic AI solutions</p>
 
 ## 🧠 About Me
 
-As the Team Lead of the AI Team at <strong>BEST</strong>, I specialize in designing and deploying practical, automation-focused AI applications that solve real business problems.  
-My work streamlines operations across:
+<p>As the Team Lead of the AI Team at <strong>BEST</strong>, I specialize in designing and deploying practical, automation-focused AI applications that solve real business problems.  </p>
+<p></p>My work streamlines operations across:</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
 - 👥 <strong>Recruitment and applicant tracking systems</strong>  
