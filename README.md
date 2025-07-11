@@ -20,68 +20,32 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 ## 🛠️ Technical Stack
 
+<h2 align="center">🛠️ Technical Stack</h2>
+
 <style>
   .tech-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
     gap: 20px;
     justify-items: center;
     align-items: center;
     padding: 20px;
   }
-
-  .tech-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    font-size: 0.95rem;
-    color: #333;
-  }
 </style>
 
 <div class="tech-grid">
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
-    Python
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64">
-    R
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
-    JavaScript
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64">
-    HTML
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64">
-    CSS
-  </div>
-  <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="64" height="64">
-    Google Sheets
-  </div>
-  <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Streamlit_logo_icon.svg" alt="Streamlit" width="64" height="64">
-    Streamlit
-  </div>
-  <div class="tech-item">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="64" height="64">
-    OpenAI
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
-    REST API
-  </div>
-  <div class="tech-item">
-    <img src="https://www.gstatic.com/images/icons/material/apps-script-512.png" alt="Apps Script" width="64" height="64">
-    Apps Script
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Streamlit_logo_icon.svg" alt="Streamlit" width="64" height="64">
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="64" height="64">
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
+  <img src="https://www.gstatic.com/images/icons/material/apps-script-512.png" alt="Apps Script" width="64" height="64">
 </div>
+
 
 > 💡 *Focus Areas:* AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 *Philosophy:* Minimalist UI. Maximum utility.
