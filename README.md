@@ -10,7 +10,7 @@ Empowering business transformation through pragmatic AI solutions</p>
 <p></p>My work streamlines operations across:</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
-- 👥 <strong>Recruitment and applicant tracking systems</strong>  
+- 👥 <strong>Recruitment and Employee Productivity</strong>  
 - 💬 <strong>Client and internal communications</strong>  
 - ⚙️ <strong>Productivity platforms, smart assistants, and task automation tools</strong>
 
