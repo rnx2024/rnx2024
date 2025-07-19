@@ -63,5 +63,5 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 </p>
 
 ---
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="center"><i>Modern. Minimal. Functional.</i></p>
