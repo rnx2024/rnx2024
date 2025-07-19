@@ -63,6 +63,4 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 </p>
 
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rhanny-belle-urbis" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/rhanny-belle-urbis?trk=profile-badge">Rhanny Belle U.</a></div>
-              
 <p align="center"><i>Modern. Minimal. Functional.</i></p>
