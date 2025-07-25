@@ -7,7 +7,8 @@ Empowering business transformation through pragmatic AI solutions</p>
 ## 🧠 About Me
 
 <p>As the Team Lead of the AI Team at <strong>BEST</strong>, I specialize in designing and deploying practical, automation-focused AI applications that solve real business problems.  </p>
-<p></p>My work streamlines operations across:</p>
+<p>I build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants.</p>
+<p>My work streamlines operations across:</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
 - 👥 <strong>Recruitment and Employee Productivity</strong>  
@@ -33,10 +34,9 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="64" height="64">
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="64" height="64">
-  
 </div>
 
-> 💡 <strong>Focus Areas:</strong> OpenAI apps, AI process automation, low-code platforms, educational tech tools, and smart task planners.  
+> 💡 <strong>Focus Areas:</strong> OpenAI apps, LangChain + LlamaIndex pipelines, AI process automation, low-code platforms, educational tech tools, and smart task planners.  
 > 🧩 <strong>Philosophy:</strong> Minimalist UI. Maximum utility.
 
 ---
@@ -50,7 +50,6 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <li><a href="https://github.com/rnx2024/Linear-Regression-Model-Training-with-R" target="_blank">Linear Regression with R</a> – Training regression models in R</li>
   <li><a href="https://github.com/rnx2024/Interactive-Profile-Map-using-R-Programming" target="_blank">Interactive Profile Map (R)</a> – Geo-based profile visualization in R</li>
   <li><a href="https://github.com/rnx2024/Real-time-Dashboard-Python-Dash-" target="_blank">Real-time Dashboard (Dash)</a> – Python Dash dashboard with live metrics</li>
-  
 </ul>
 
 ---
@@ -67,5 +66,5 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 </p>
 
 ---
-            
+
 <p align="center"><i>Modern. Minimal. Functional.</i></p>
