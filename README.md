@@ -36,7 +36,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="64" height="64">
 </div>
 
-> 💡 <strong>Focus Areas:</strong> OpenAI apps, LangChain + LlamaIndex pipelines, AI process automation, low-code platforms, educational tech tools, and smart task planners.  
+> 💡 <strong>Focus Areas:</strong> OpenAI apps, LangChain + LlamaIndex pipelines, RAG, Conversational AI, AI process automation, no-code customGPTs.  
 > 🧩 <strong>Philosophy:</strong> Minimalist UI. Maximum utility.
 
 ---
