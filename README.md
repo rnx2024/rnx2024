@@ -22,6 +22,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 
 <div class="tech-grid">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png alt="LangChain" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="64" height="64">
@@ -31,6 +32,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="64" height="64">
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="REST API" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="64" height="64">
+  
 </div>
 
 > 💡 <strong>Focus Areas:</strong> OpenAI apps, AI process automation, low-code platforms, educational tech tools, and smart task planners.  
@@ -47,6 +49,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
   <li><a href="https://github.com/rnx2024/Linear-Regression-Model-Training-with-R" target="_blank">Linear Regression with R</a> – Training regression models in R</li>
   <li><a href="https://github.com/rnx2024/Interactive-Profile-Map-using-R-Programming" target="_blank">Interactive Profile Map (R)</a> – Geo-based profile visualization in R</li>
   <li><a href="https://github.com/rnx2024/Real-time-Dashboard-Python-Dash-" target="_blank">Real-time Dashboard (Dash)</a> – Python Dash dashboard with live metrics</li>
+  
 </ul>
 
 ---
