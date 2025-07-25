@@ -23,6 +23,7 @@ I build AI that works—fast, reliable tools grounded in the daily realities of 
 <div class="tech-grid">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangChain" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg"  alt="LlamaIndex" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="64" height="64">
