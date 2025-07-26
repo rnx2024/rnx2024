@@ -22,7 +22,7 @@ Empowering business transformation through pragmatic AI solutions</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangChain" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/langchain-color.png" alt="LangChain" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
