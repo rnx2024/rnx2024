@@ -54,7 +54,7 @@ Empowering business transformation through pragmatic AI solutions</p>
 ## ⭐ Top Repositories
 
 <ul>
-  <li><a href="https://github.com/rnx2024/PerimeterGuard-AI" target="_blank">PerimeterGuard-AI</a> – YOLOv8 + Supervision app for perimeter breach detection</li>
+  <li><a href="https://github.com/rnx2024/PerimeterGuard-AI" target="_blank">PerimeterGuard-AI</a> – YOLOv8 + Supervision + pyttsx3 app for perimeter breach detection</li>
   <li><a href="https://github.com/rnx2024/AI-Text-Extractor" target="_blank">AI-Text-Extractor</a> – Google Vision-powered multi-format text extraction</li>
   <li><a href="https://github.com/rnx2024/top-job-prediction_model" target="_blank">Top Job Prediction Model</a> – ML model predicting top-fit job roles</li>
   <li><a href="https://github.com/rnx2024/Linear-Regression-Model-Training-with-R" target="_blank">Linear Regression with R</a> – Training regression models in R</li>
