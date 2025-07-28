@@ -13,8 +13,7 @@ Empowering business transformation through pragmatic AI solutions</p>
 - 👥 <strong>Recruitment and employee productivity</strong>  
 - 💬 <strong>Client and internal communications</strong>  
 - ⚙️ <strong>Productivity platforms, smart assistants, and task automation tools</strong>
-<p>I build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants.</p>
-<p>I build AI that works—fast, reliable tools grounded in the daily realities of growing organizations.</p>
+<p>I also build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants.</p> It's AI that works—fast, reliable tools grounded in the daily realities of growing organizations.</p>
 
 ---
 
