@@ -7,13 +7,13 @@ Empowering business transformation through pragmatic AI solutions</p>
 ## 🧠 About Me
 
 <p>As the Team Lead of the AI Team at <strong>BEST</strong>, I specialize in designing and deploying practical, automation-focused AI applications that solve real business problems.</p>
-<p>I build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants. My work streamlines operations across:</p>
+<p> My work streamlines operations across:</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
 - 👥 <strong>Recruitment and employee productivity</strong>  
 - 💬 <strong>Client and internal communications</strong>  
 - ⚙️ <strong>Productivity platforms, smart assistants, and task automation tools</strong>
-
+<p>I build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants.</p>
 <p>I build AI that works—fast, reliable tools grounded in the daily realities of growing organizations.</p>
 
 ---
