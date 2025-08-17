@@ -58,7 +58,7 @@ Empowering business transformation through pragmatic AI solutions</p>
 
 <ul>
   <li><a href="https://github.com/rnx2024/PerimeterGuard-AI" target="_blank">PerimeterGuard-AI</a> – YOLOv8 + Supervision + OpenCV app for perimeter breach detection</li>
-  <li><a href="https://github.com/rnx2024/AI-Text-Extractor" target="_blank">AI-Text-Extractor</a> – Google Vision-powered multi-format text extraction</li>
+  <li><a href="https://github.com/rnx2024/news-weather_agent-langchain" target="_blank">News+Weather Agent</a> – Langchain 2-step agent using OpenAI, SERPAPI and OpenWeather</li>
   <li><a href="https://github.com/rnx2024/top-job-prediction_model" target="_blank">Top Job Prediction Model</a> – ML model predicting top-fit job roles</li>
   <li><a href="https://github.com/rnx2024/Linear-Regression-Model-Training-with-R" target="_blank">Linear Regression with R</a> – Training regression models in R</li>
   <li><a href="https://github.com/rnx2024/Interactive-Profile-Map-using-R-Programming" target="_blank">Interactive Profile Map (R)</a> – Geo-based profile visualization in R</li>
