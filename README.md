@@ -36,6 +36,10 @@ Empowering business transformation through pragmatic AI solutions</p>
   <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/rest-api-icon-8.jpg" alt="REST API" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/sqlite.png" alt="SQLite" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/mysql.png" alt="MySQL Server" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/azure%20cloud.jpg" alt="Azure Cloud" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/bigquery.png" alt="BigQuery" width="48" height="48">
 </div>
 
 > 💡 <strong>Focus Areas:</strong>  
