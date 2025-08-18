@@ -40,6 +40,8 @@ Empowering business transformation through pragmatic AI solutions</p>
   <img src="https://github.com/rnx2024/rnx2024/blob/main/mysql.png" alt="MySQL Server" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/azure%20cloud.jpg" alt="Azure Cloud" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/bigquery.png" alt="BigQuery" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/n8n.png" alt="n8n" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/zapier.png" alt="Zapier" width="48" height="48">
 </div>
 
 > 💡 <strong>Focus Areas:</strong>  
