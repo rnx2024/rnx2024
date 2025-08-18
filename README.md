@@ -26,7 +26,8 @@ Empowering business transformation through pragmatic AI solutions</p>
   <img src="https://github.com/rnx2024/rnx2024/blob/main/pydantic.png" alt="Pydantic" width="64" height="64"">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/docker.png" alt="Docker" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/swagger-logo-horizontal.png" alt="Swagger" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LanGraph" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/zapier.png" alt="Zapier" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/render-icon.jpg" alt="Render" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
@@ -42,6 +43,7 @@ Empowering business transformation through pragmatic AI solutions</p>
   <img src="https://github.com/rnx2024/rnx2024/blob/main/bigquery.png" alt="BigQuery" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/n8n.png" alt="n8n" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/zapier.png" alt="Zapier" width="48" height="48">
+  
 </div>
 
 > 💡 <strong>Focus Areas:</strong>  
