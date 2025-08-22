@@ -1,12 +1,12 @@
 <h1 align="center">👩‍💻 Rhanny Belle Urbis</h1>
-<p align="center"><strong>Team Lead – AI Team @ Best Education Services Team (BEST)</strong><br>
+<p align="center"><strong>AI Automation Engineer @ PopAI Technologies</strong><br>
 Empowering business transformation through pragmatic AI solutions</p>
 
 ---
 
 ## 🧠 About Me
 
-<p>As the Team Lead of the AI Team at <strong>BEST</strong>, I specialize in designing and deploying practical, automation-focused AI applications that solve real business problems.</p>
+<p>I design and deploy practical, automation-focused AI applications that solve real business problems.</p>
 <p> My work streamlines operations across:</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
