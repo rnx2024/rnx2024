@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Rhanny Belle Urbis</h1>
 <p align="center"><strong>AI Automation Engineer @ PopAI Technologies</strong><br>
-Empowering business transformation through pragmatic AI solutions</p>
+Business transformations through pragmatic AI solutions</p>
 
 ---
 
