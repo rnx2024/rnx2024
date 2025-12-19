@@ -25,7 +25,7 @@ Business transformations through pragmatic AI solutions</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/typescript.png" alt="Typescript" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/langchain-color.png" alt="LangChain" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangGraph" width="64" height="64"> 
   <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
