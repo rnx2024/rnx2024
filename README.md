@@ -21,24 +21,25 @@ Business transformations through pragmatic AI solutions</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langchain-color.png" alt="LangChain" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangGraph" width="64" height="64">
-  
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/fastapi.jpg" alt="FastAPI" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/pydantic.png" alt="Pydantic" width="64" height="64"">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/docker.png" alt="Docker" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/swagger-logo-horizontal.png" alt="Swagger" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/render-icon.jpg" alt="Render" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/typescript.png" alt="Typescript" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/react-js.png" alt="React.js" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/next-js.webp" alt="Next.js" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="96" height="96">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/typescript.png" alt="Typescript" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/langchain-color.png" alt="LangChain" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangGraph" width="64" height="64"> 
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/fastapi.jpg" alt="FastAPI" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/pydantic.png" alt="Pydantic" width="64" height="64"">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/react-js.png" alt="React.js" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/next-js.webp" alt="Next.js" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="48" height="48">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPge9UI377HdzsLwqiySsHbwOuJ24PqSmlWg&s" alt="Cohere" width="48" height="48">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwNwDUq_S0U6wDzS60c45kVK5zpxF-03wsQ&s" alt="Vercel" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/docker.png" alt="Docker" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/swagger-logo-horizontal.png" alt="Swagger" width="64" height="64">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/render-icon.jpg" alt="Render" width="64" height="64">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="96" height="96">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/rest-api-icon-8.jpg" alt="REST API" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="48" height="48">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/sqlite.png" alt="SQLite" width="48" height="48">
