@@ -29,6 +29,9 @@ Business transformations through pragmatic AI solutions</p>
   <img src="https://github.com/rnx2024/rnx2024/blob/main/render-icon.jpg" alt="Render" width="64" height="64">
   <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/typescript.png" alt="Typescript" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/react-js.png" alt="React.js" width="48" height="48">
+  <img src="https://github.com/rnx2024/rnx2024/blob/main/next-js.webp" alt="Next.js" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48">
