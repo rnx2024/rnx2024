@@ -78,8 +78,6 @@ Business transformations through pragmatic AI solutions</p>
   <li><a href="https://github.com/rnx2024/Linear-Regression-Model-Training-with-R" target="_blank">Linear Regression with R</a> – Training regression models in R</li>
   <li><a href="https://github.com/rnx2024/Interactive-Profile-Map-using-R-Programming" target="_blank">Interactive Profile Map (R)</a> – Geo-based profile visualization in R</li>
   <li><a href="https://github.com/rnx2024/Real-time-Dashboard-Python-Dash-" target="_blank">Real-time Dashboard (Dash)</a> – Python Dash dashboard with live metrics</li>
-  <li><a href="https://github.com/rnx2024/TopSearchTerms-Streamlit" target="_blank">TopSearchTerms-Streamlit</a> – Google Trends BigQuery app in Streamlit</li>
-</ul>
 
 ---
 
