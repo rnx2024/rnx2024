@@ -86,7 +86,7 @@ Business transformations through pragmatic AI solutions</p>
   <a href="https://www.linkedin.com/in/rhanny-belle-urbis" target="_blank">
     <img src="https://github.com/rnx2024/rnx2024/blob/main/icons8-linkedin-48.png" alt="LinkedIn" width="32" height="32">
   </a>
-  <a href="https://medium.com/@rnx2024" target="_blank">
+  <a href="https://medium.com/@raniurbis2024" target="_blank">
     <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium" width="32" height="32">
   </a>
 </p>
