@@ -11,9 +11,10 @@ Business transformations through pragmatic AI solutions</p>
 
 - 📊 <strong>Data intake and reporting pipelines</strong>  
 - 👥 <strong>Recruitment and employee productivity</strong>  
-- 💬 <strong>Client and internal communications</strong>  
-- ⚙️ <strong>Productivity platforms, smart assistants, and task automation tools</strong>
-<p>I also build intelligent, RAG-based tools using LangChain and LlamaIndex to power document search, workflow agents, and knowledge assistants.</p> It's AI that works—fast, reliable tools grounded in the daily realities of growing organizations.</p>
+- 💬 <strong>Customer Support, Quality Assurance, Client and Internal communications</strong>  
+- ⚙️ <strong>Productivity platforms, Smart Assistants, and Task Automation Tools</strong>
+- 🗣️ <strong>Voice & Live Assistants</strong>
+- 📚 <strong>RAG-based tools for document search and knowledge assistants</strong>
 
 ---
 
@@ -54,15 +55,16 @@ Business transformations through pragmatic AI solutions</p>
 </div>
 
 > 💡 <strong>Focus Areas:</strong>  
-> - AI app development  
-> - Prompt engineering  
+> - AI Agent Development  
+> - ETL Pipelines
 > - Retrieval-augmented generation (RAG)  
-> - Embedding-based vector search  
-> - Production-ready Streamlit app structuring  
-> - OpenAI API integration  
-> - LlamaIndex + LangChain pipelines  
-> - Conversational AI  
-> - Process automation  
+> - Embedding-based vector search   
+> - LLM API integration
+> - CRM & Third-Party API Integration 
+> - LangChain + LangGraph pipelines  
+> - Conversational AI
+> - Voice UX  
+> - Workflow Automations  
 > - No-code customGPTs  
 
 > 🧩 <strong>Philosophy:</strong> Minimalist UI. Maximum utility.
