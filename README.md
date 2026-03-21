@@ -92,10 +92,13 @@ Business transformations through pragmatic AI solutions</p>
   <a href="https://medium.com/@raniurbis" target="_blank">
     <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium" width="32" height="32">
   </a>
- <a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank">
-    <img src="https://www.vecteezy.com/vector-art/7555972-icon-portfolio-suitable-for-art-symbol-blue-eyes-style-simple-design-editable-design-template-vector-simple-illustration" alt="Portfolio" width="32" height="32">
-  </a>
-
+ <a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
+  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none">
+    <path d="M3 7.5A1.5 1.5 0 0 1 4.5 6h15A1.5 1.5 0 0 1 21 7.5v9A1.5 1.5 0 0 1 19.5 18h-15A1.5 1.5 0 0 1 3 16.5v-9Z" stroke="currentColor" stroke-width="1.8"/>
+    <path d="M9 6V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v1" stroke="currentColor" stroke-width="1.8"/>
+    <path d="M3 10h18" stroke="currentColor" stroke-width="1.8"/>
+  </svg>
+</a>
 </p>
 
 
