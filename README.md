@@ -93,7 +93,7 @@ Business transformations through pragmatic AI solutions</p>
     <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium" width="32" height="32">
   </a>
 <a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Portfolio" width="32" height="32">
+  <img src="https://drive.google.com/uc?export=view&id=1Zy7wmcsnSZtO2zGWfpMomF8sUBBGsoPV" alt="Portfolio" width="32" height="32">
 </a>
 </p>
 
