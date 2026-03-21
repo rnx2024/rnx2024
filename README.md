@@ -83,7 +83,7 @@ Business transformations through pragmatic AI solutions</p>
 
 ---
 
-## 📡 Let’s Connect
+## 📡 Social Media & Portfolio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhanny-belle-urbis" target="_blank">
@@ -92,7 +92,13 @@ Business transformations through pragmatic AI solutions</p>
   <a href="https://medium.com/@raniurbis" target="_blank">
     <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium" width="32" height="32">
   </a>
+ <a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank">
+    <img src="https://www.vecteezy.com/vector-art/7555972-icon-portfolio-suitable-for-art-symbol-blue-eyes-style-simple-design-editable-design-template-vector-simple-illustration" alt="Portfolio" width="32" height="32">
+  </a>
+
 </p>
+
+
 
 ---
 
