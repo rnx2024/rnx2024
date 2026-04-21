@@ -55,17 +55,17 @@ Business transformations through pragmatic AI solutions</p>
 </div>
 
 > 💡 <strong>Focus Areas:</strong>  
-> - AI Agent Development  
+> - AI Agent Development
+> - Custom predictive models using logistic regression  
 > - ETL Pipelines
 > - Retrieval-augmented generation (RAG)  
-> - Embedding-based vector search   
+> - Embedding-based vector and Hybrid search
 > - LLM API integration
 > - CRM & Third-Party API Integration 
-> - LangChain + LangGraph pipelines  
+> - LangChain + LangGraph + ReAct + LiteLLM pipelines  
 > - Conversational AI
 > - Voice UX  
-> - Workflow Automations  
-> - No-code customGPTs  
+> - Workflow Automations (n8n, Zapier, Make) 
 
 > 🧩 <strong>Philosophy:</strong> Minimalist UI. Maximum utility.
 
