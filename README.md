@@ -18,56 +18,64 @@ Business transformations through pragmatic AI solutions</p>
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langchain-color.png" alt="LangChain" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/langgraph-color.png" alt="LangGraph" width="64" height="64"> 
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/llama-index.jpg" alt="LlamaIndex" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/fastapi.jpg" alt="FastAPI" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/pydantic.png" alt="Pydantic" width="64" height="64"">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/react-js.png" alt="React.js" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/next-js.webp" alt="Next.js" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/raw/main/vecteezy_openai-chatgpt-logo-icon_22227364.png" alt="OpenAI" width="48" height="48">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPge9UI377HdzsLwqiySsHbwOuJ24PqSmlWg&s" alt="Cohere" width="48" height="48">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwNwDUq_S0U6wDzS60c45kVK5zpxF-03wsQ&s" alt="Vercel" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/docker.png" alt="Docker" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/swagger-logo-horizontal.png" alt="Swagger" width="64" height="64">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/render-icon.jpg" alt="Render" width="64" height="64">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="96" height="96">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/rest-api-icon-8.jpg" alt="REST API" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/google-apps-script_5968494.png" alt="Apps Script" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/sqlite.png" alt="SQLite" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/postgresql.png" alt="PostgreSQL" width="48" height="48">
-   <img src="https://github.com/rnx2024/rnx2024/blob/main/supabase-logo.jpg" alt="Supabase" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/mysql.png" alt="MySQL Server" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/azure%20cloud.jpg" alt="Azure Cloud" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/bigquery.png" alt="BigQuery" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/n8n.png" alt="n8n" width="48" height="48">
-  <img src="https://github.com/rnx2024/rnx2024/blob/main/zapier.png" alt="Zapier" width="48" height="48">
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-> 💡 <strong>Focus Areas:</strong>  
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Apps Script" />
+</p>
+
+> **Focus Areas:**  
 > - AI Agent Development
 > - Custom predictive models using logistic regression  
 > - ETL Pipelines
 > - Retrieval-augmented generation (RAG)  
-> - Embedding-based vector and Hybrid search
+> - Embedding-based vector and hybrid search
 > - LLM API integration
-> - CRM & Third-Party API Integration 
+> - CRM & third-party API integration 
 > - LangChain + LangGraph + ReAct + LiteLLM pipelines  
 > - Conversational AI
 > - Voice UX  
-> - Workflow Automations (n8n, Zapier, Make) 
-
-> 🧩 <strong>Philosophy:</strong> Minimalist UI. Maximum utility.
+> - Workflow automations (n8n, Zapier, Make)
 
 ---
 
@@ -83,21 +91,19 @@ Business transformations through pragmatic AI solutions</p>
 
 ---
 
-## 📡 Social Media & Portfolio
+## Social Media & Portfolio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhanny-belle-urbis" target="_blank">
-    <img src="https://github.com/rnx2024/rnx2024/blob/main/icons8-linkedin-48.png" alt="LinkedIn" width="32" height="32">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@raniurbis" target="_blank">
-    <img src="https://github.com/rnx2024/rnx2024/blob/main/medium.png" alt="Medium" width="32" height="32">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-<a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1Zy7wmcsnSZtO2zGWfpMomF8sUBBGsoPV" alt="Portfolio" width="32" height="32">
-</a>
+  <a href="https://rnx2024.github.io/rhannybelleurbis/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
-
 
 ---
 
