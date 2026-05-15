@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Rhanny Urbis</h1>
-<p align="center"><strong>AI Automation Engineer @ PopAI Technologies</strong><br>
+<p align="center"><strong>AI Automation Engineer/Backend Engineer</strong><br>
 Business transformations through pragmatic AI solutions</p>
 
 ---
