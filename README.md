@@ -81,6 +81,7 @@ Business transformations through pragmatic AI solutions</p>
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Apps Script" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
 > **Focus Areas:**  
