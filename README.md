@@ -104,10 +104,10 @@ Business transformations through pragmatic AI solutions</p>
 <ul>
   <li><a href="https://github.com/rnx2024/PerimeterGuard-AI" target="_blank">PerimeterGuard-AI</a> – YOLOv8 + Supervision + OpenCV app for perimeter breach detection</li>
   <li><a href="https://github.com/rnx2024/tripbites" target="_blank">TripBites</a> – An AI app that provides travel and outdoor activity risk analysis for any city using LangGraph, ReAct integrated with APIs and tools: SERPAPI, Open-Meteo and OpenWeather</li>
-  <li><a href="https://github.com/rnx2024/top-job-prediction_model" target="_blank">Top Job Prediction Model</a> – ML model predicting top-fit job roles</li>
   <li><a href="https://github.com/rnx2024/retryguard" target="_blank">RetryGuard</a> – WIP PyPI-published Python library, currently under testing, for determining retryable and non-retryable errors and applying appropriate retry-after handling</li>
   <li><a href="https://github.com/rnx2024/Interactive-Profile-Map-using-R-Programming" target="_blank">Interactive Profile Map (R)</a> – Geo-based profile visualization in R</li>
   <li><a href="https://github.com/rnx2024/Real-time-Dashboard-Python-Dash-" target="_blank">Real-time Dashboards (Dash)</a> – Python Dash dashboard with live metrics</li>
+  <li><a href="https://github.com/rnx2024/top-job-prediction_model" target="_blank">Top Job Prediction Model</a> – ML model predicting top-fit job roles</li>
 
 ---
 
