@@ -1,6 +1,5 @@
 <h1 align="center">👩‍💻 Rhanny Urbis</h1>
-<p align="center"><strong>AI Engineer | Automation Engineer | Backend Engineer</strong><br>
-Pragmatic AI solutions & Efficient Backend Systems</p>
+<p align="center"><strong>AI Engineer | Automation Engineer | Backend Engineer</strong></p>
 
 ---
 
