@@ -12,8 +12,7 @@
 - 👥 <strong>Recruitment and employee productivity</strong>
 - 📈 <strong>Sales & Marketing pipelines</strong>
 - 💬 <strong>Customer Support, Quality Assurance, Client and Internal communications</strong>  
-- ⚙️ <strong>Productivity platforms, Smart Assistants, and Task Automation Tools</strong>
-- 🗣️ <strong>Voice & Live Assistants</strong>
+- ⚙️ <strong>Productivity Tools, Smart Assistants, and Task Automation Tools</strong>
 - 📚 <strong>RAG-based tools for document search and knowledge assistants</strong>
 
 ---
