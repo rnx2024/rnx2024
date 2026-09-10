@@ -16,7 +16,7 @@ I build and improve systems.
 - Retrieval-augmented generation (RAG)  
 - LLM API integration
 - CRM & third-party API integration 
-- Conversational AI
+- End-to-End Testing & Security (QA Automation, DAST, penetration testing phases)
 
 ## Technical Stack
 
