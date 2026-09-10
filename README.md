@@ -5,17 +5,19 @@
 
 ## 🧠 About Me
 
-<p>I design and deploy practical, automation-focused AI applications that solve real business problems.</p>
-<p> My work streamlines operations across:</p>
+I build and improve systems: 
 
-- 📊 <strong>Data intake and reporting pipelines</strong>  
-- 👥 <strong>Recruitment and employee productivity</strong>
-- 📈 <strong>Sales & Marketing pipelines</strong>
-- 💬 <strong>Customer Support, Quality Assurance, Client and Internal communications</strong>  
-- ⚙️ <strong>Productivity Tools, Smart Assistants, and Task Automation Tools</strong>
-- 📚 <strong>RAG-based tools for document search and knowledge assistants</strong>
-
----
+> **Focus Areas:**
+> - Backend Development
+> - ETL Pipelines
+> - Workflow automations
+> - AI Agent Development & Agentic AI
+> - Custom predictive models using logistic regression  
+> - Retrieval-augmented generation (RAG)  
+> - Embedding-based vector and hybrid search
+> - LLM API integration
+> - CRM & third-party API integration 
+> - Conversational AI
 
 ## Technical Stack
 
@@ -82,19 +84,6 @@
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-> **Focus Areas:**
-> - Backend Development
-> - ETL Pipelines
-> - Workflow automations
-> - AI Agent Development & Agentic AI
-> - Custom predictive models using logistic regression  
-> - Retrieval-augmented generation (RAG)  
-> - Embedding-based vector and hybrid search
-> - LLM API integration
-> - CRM & third-party API integration 
-> - Conversational AI
-
 
 ## Social Media & Portfolio
 
