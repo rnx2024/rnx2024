@@ -5,19 +5,19 @@
 
 ## 🧠 About Me
 
-I build and improve systems: 
+I build and improve systems. 
 
-> **Focus Areas:**
-> - Backend Development
-> - ETL Pipelines
-> - Workflow automations
-> - AI Agent Development & Agentic AI
-> - Custom predictive models using logistic regression  
-> - Retrieval-augmented generation (RAG)  
-> - Embedding-based vector and hybrid search
-> - LLM API integration
-> - CRM & third-party API integration 
-> - Conversational AI
+**Focus Areas:**
+- Backend Development
+- ETL Pipelines
+- Workflow automations
+- AI Agent Development & Agentic AI
+- Custom predictive models using logistic regression  
+- Retrieval-augmented generation (RAG)  
+- Embedding-based vector and hybrid search
+- LLM API integration
+- CRM & third-party API integration 
+- Conversational AI
 
 ## Technical Stack
 
