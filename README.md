@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-I build and improve efficient systems. 
+I build and improve systems. 
 
 **Focus Areas:**
 - Backend Development
