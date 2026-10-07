@@ -87,10 +87,6 @@ I build and improve systems.
 
 <!-- QA Automation and Web App Testing -->
 <p align="center">
-  <img src="https://img.shields.io/badge/QA%20Automation%20%26%20Web%20App%20Testing-2563EB?style=for-the-badge" alt="QA Automation and Web App Testing" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Semgrep-3E8EDE?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
   <img src="https://img.shields.io/badge/Wapiti-374151?style=for-the-badge" alt="Wapiti" />
