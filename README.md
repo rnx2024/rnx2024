@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Rhanny Urbis</h1>
-<p align="center"><strong>AI Engineer | Automation Engineer | Backend Engineer</strong></p>
+<p align="center"><strong> AI Automation Engineer | Backend Engineer</strong></p>
 
 ---
 
